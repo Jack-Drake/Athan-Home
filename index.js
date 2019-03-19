@@ -7,7 +7,7 @@ request('link to json file to be parsed', function (error, response, body) {
      json = JSON.parse(body);
 
      //must be inside the if statement otherwise the json code wont work
-     setInterval(makeathan, 60000);
+     setInterval(checkSalah, 60000);
   }
 })
 
