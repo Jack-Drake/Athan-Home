@@ -22,3 +22,13 @@ where it says:
 ex: mygooglehome.push("paste link here");
 
 Run the program. Enjoy!!
+
+
+Common Errors May Include:
+
+1. Can't Install google-home-push if you get errors including ones that say is needs or is missing a file run the command below.
+--       sudo apt-get install libavahi-compat-libdnssd-dev     --
+
+2. Doesn't broadcast.
+--       check the ip addresses that they are correct      --
+--       make sure that there aren't syntax errors    --
