@@ -1,4 +1,4 @@
-# Athan-Home-Superior-to-GOLANG
+# Athan-Home
 Have your own personal athan broadcast on your google homes
 
 To Get Started, 
